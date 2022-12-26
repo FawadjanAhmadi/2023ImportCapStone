@@ -1,4 +1,4 @@
-@CompleteTest
+@SmokeTest
 Feature: Retail Account Page
 
   Background: 

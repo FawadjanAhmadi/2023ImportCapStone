@@ -1,4 +1,4 @@
-@CompleteTest
+@SmokeTest
 Feature: Retail Home Page
 
   Background: 

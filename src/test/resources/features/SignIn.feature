@@ -1,3 +1,4 @@
+@SmokeTest
 Feature: Sign In Feature
 
  

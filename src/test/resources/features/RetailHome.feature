@@ -1,3 +1,4 @@
+@SmokeTest
 Feature: Retail Home page
 
   Scenario: Verify Shop by Department sidebar
