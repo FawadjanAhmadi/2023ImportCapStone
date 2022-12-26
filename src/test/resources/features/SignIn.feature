@@ -1,6 +1,6 @@
 Feature: Sign In Feature
 
-  #this is comment
+ 
   Background: 
     Given User is on retail website
     When User click on Sign in option
